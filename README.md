@@ -1,20 +1,18 @@
-# Flutter samples
+# Ví dụ Flutter
 
 [![Build Status](https://travis-ci.org/flutter/samples.svg?branch=master)](https://travis-ci.org/flutter/samples)
 
-A collection of open source samples that illustrate best practices for
-[Flutter](https://flutter.io).
+Tập hợp các sample sử dụng [Flutter](https://flutter.io).
 
 ## Index
 
-For a curated list of samples in this repo and elsewhere, see the
-[index](INDEX.md).
+Danh sách các sample có thể thấy ở [index](INDEX.md).
 
-## Interested in contributing?
+## Đóng góp?
 
 See the [contributor's guide](CONTRIBUTING.md)!
 
-## Questions or issues?
+## Câu hỏi hoặc báo lỗi?
 
 If you have a general question about one of these samples or how to adapt its
 techniques for one of your own apps, try one of these resources:
